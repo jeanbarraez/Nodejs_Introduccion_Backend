@@ -1,0 +1,16 @@
+[
+  {
+    "Nombre_animal": "perla",
+    "Edad": "2 anio",
+    "Tipo_animal": "perro",
+    "color_animal": "marron",
+    "enfermedad": "vomitos"
+  },
+  {
+    "Nombre_animal": "pepito",
+    "Edad": "1 anio",
+    "Tipo_animal": "perro",
+    "color_animal": "blanco",
+    "enfermedad": "otitis"
+  }
+]
